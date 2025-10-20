@@ -1,0 +1,29 @@
+print("Python mükemmel bir dil!")
+
+isim = "Sinem"
+print(f"Hoş geldin {isim}")
+
+x, y = "ahmet", "mehmet"
+print(x + " ve " + y)
+
+var = 5
+Var = 10
+print(var + Var)
+
+a = b = 42
+print(a, b)
+
+bool_deger = True
+print(type(bool_deger))
+
+x = 12.99
+print(int(x))
+
+metin = "sinem urfa'da yaşıyor"
+print("urfa" in metin)
+
+kelime = "PYTHON"
+print(kelime.lower())
+
+puan = 95.876
+print(f"Başarı oranı: {puan:.2f}")
